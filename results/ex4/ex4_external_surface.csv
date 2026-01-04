@@ -1,0 +1,5 @@
+material,volume_cm3,collisions_analog_per_source,absorptions_analog_per_source,collisions_tle_per_source,absorptions_tle_per_source,flux_tle_per_source,flux_cfe_per_source,collisions_analog_per_s,absorptions_analog_per_s,collisions_tle_per_s,absorptions_tle_per_s,flux_tle_per_s,flux_cfe_per_s
+steel,4453.21,0.06901,0.01025,0.0689039,0.0103057,1.31813e-05,1.32733e-05,69010,10250,68903.9,10305.7,13.1813,13.2733
+air,43982.3,4e-05,1e-05,5.61041e-05,7.8623e-06,2.06942e-06,1.50752e-06,40,10,56.1041,7.8623,2.06942,1.50752
+water,43982.3,101.429,0.80985,101.439,0.810722,0.0012653,0.00126505,1.01429e+08,809850,1.01439e+08,810722,1265.3,1265.05
+leaks,,0.17989,,,,,179890,,,,,

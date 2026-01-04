@@ -1,0 +1,6 @@
+index,nuclide,reaction,mean,rel_err
+0,U-238,fission,0.0229,0.256198
+1,U-238,elastic,38.5545,0.0105865
+2,O-16,abs_other,0.0005,0.447124
+3,O-16,elastic,27.2977,0.00970079
+4,U-238,capture,1.0292,0.00732149

@@ -1,0 +1,4 @@
+case_index,avg_fission_neutrons_elastic,stddev,avg_fission_neutrons_with_inelastic
+0,0.0459,1.25114,0.0096
+1,0.8772,6.21587,0.3148
+2,1.917,8.34561,1.4321

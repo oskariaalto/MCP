@@ -1,0 +1,2 @@
+batches,total_point_samples,point_samples_per_batch,total_lines,lines_per_batch,segs_per_line
+20,1000000,50000,20000,1000,1000
